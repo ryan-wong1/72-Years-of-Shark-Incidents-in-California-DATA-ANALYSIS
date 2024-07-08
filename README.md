@@ -1,6 +1,6 @@
 72 Years of Shark Incidents in California 1950 - 2022
 
-Data Source = California Department of Fish and Wildlife (CDFW):
+Data Source: California Department of Fish and Wildlife (CDFW)
 https://catalog.data.gov/dataset/shark-incident-database-california-56167
 
 This github respository contains the code used for the data cleaning and exploratory process as well as the original and cleaned datasets sourced from 'Shark Incident Database - California' which can be viewed at the link above.
@@ -8,14 +8,14 @@ This github respository contains the code used for the data cleaning and explora
 
 This respository contains two folders: 
 
-Data Cleaning:
+1. Data Cleaning:
 
 - SharkIncidents Data Cleaning.sql = Code used during the data cleaning process. Note that this code is with Moons.csv and SharkIncidents joined together. Final cleaned code and further details can be viewed at the Kaggle link below.
 
 - SharkIncidents Data Exploration.sql = Code used during the data exploration process to address critical questions needed for analysis. My Tableau dashboard (linked below) can be viewed if wanting to learn more.
 
 
-Dataset Files:
+2. Dataset Files:
 
 - SharkIncidents.csv = The main dataset used for analysis. This is the raw data directly downloaded from the CDFW data source on data.gov.
 
