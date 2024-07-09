@@ -17,7 +17,7 @@ Dataset Files:
 
 - SharkIncidents.csv = The main dataset used for analysis. This is the raw data directly downloaded from the CDFW data source on data.gov.
 
-- Moons.csv = This is the secondary datasaet used for analysis. This is the raw data directly downloaded from the CDFW data source on data.gov.
+- Moons.csv = This is the secondary dataset used for analysis. This is the raw data directly downloaded from the CDFW data source on data.gov.
 
 - SharkIncidents Cleaned.csv = SharkIncidents.csv and Moons.csv joined together via a common key to create this. Note that this combined dataset has already been cleaned using the code from SharkIncidents Data Cleaning.sql. The Kaggle link below contains all the contents from this csv file but in a much more readable format.
 
