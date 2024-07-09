@@ -7,7 +7,7 @@ This github respository contains the code used for the data cleaning and explora
 
 This respository contains two folders: 
 
-Data Cleaning:
+Data Cleaning and Exploration:
 
 - SharkIncidents Data Cleaning.sql = Code used during the data cleaning process. Note that this code is with Moons.csv and SharkIncidents joined together. Final cleaned code and further details can be viewed at the Kaggle link below.
 
@@ -19,7 +19,7 @@ Dataset Files:
 
 - Moons.csv = This is the secondary datasaet used for analysis. This is the raw data directly downloaded from the CDFW data source on data.gov.
 
-- SharkIncidents Cleaned.csv = SharkIncidents.csv and Moons.csv joined together on a common key to create this. Note that this combined dataset has already been cleaned using the code from SharkIncidents Data Cleaning.sql. The Kaggle link below contains all the contents from this csv file but in a much more readable format.
+- SharkIncidents Cleaned.csv = SharkIncidents.csv and Moons.csv joined together via a common key to create this. Note that this combined dataset has already been cleaned using the code from SharkIncidents Data Cleaning.sql. The Kaggle link below contains all the contents from this csv file but in a much more readable format.
 
 Cleaned dataset:
 https://www.kaggle.com/datasets/ryanwong1/shark-incidents-in-california-1950-2022/data
