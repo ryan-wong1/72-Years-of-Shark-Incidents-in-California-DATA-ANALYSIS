@@ -24,5 +24,5 @@ Dataset Files:
 Cleaned dataset:
 https://www.kaggle.com/datasets/ryanwong1/shark-incidents-in-california-1950-2022/data
 
-I have created a Tableau dashboard visualizing and addressing critical questions relating to shark encounters if ever wanting to visit California waters for beach activities. Many of these questions were also determined in the data exploratory process which you can further view in the code I have included in this respository (Data Cleaning Folder > SharkIncidents Data Exploration.sql).
+I have created a Tableau dashboard visualizing and addressing critical questions relating to shark encounters if ever wanting to visit California waters for beach activities. Many of these questions were also determined in the data exploratory process which you can further view in the code I have included in this respository (Data Cleaning and Exploration Folder > SharkIncidents Data Exploration.sql).
 https://public.tableau.com/app/profile/ryanw/viz/sharkincidents11111/DASHBOARD
