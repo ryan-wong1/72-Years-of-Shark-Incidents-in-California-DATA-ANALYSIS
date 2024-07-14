@@ -9,7 +9,7 @@ This respository contains two folders:
 
 Data Cleaning and Exploration:
 
-- SharkIncidents Data Cleaning.sql = Code used during the data cleaning process. Note that this code is with Moons.csv and SharkIncidents joined together. Final cleaned code and further details can be viewed at the Kaggle link below.
+- SharkIncidents Data Cleaning.sql = Code used during the data cleaning process. Note that this also includes the code used to join SharkIncidents.csv and Moons.csv together. The final cleaned dataset and further details can be viewed at the Kaggle link below.
 
 - SharkIncidents Data Exploration.sql = Code used during the data exploration process to address critical questions needed for analysis. My Tableau dashboard (linked below) can be viewed if wanting to learn more.
 
