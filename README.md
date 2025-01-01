@@ -21,8 +21,9 @@ This github respository contains the code used for the data cleaning and explora
 
 - **SharkIncidents Cleaned.csv** = SharkIncidents.csv and Moons.csv joined together via a common key to create this. Note that this combined dataset has already been cleaned using the code from SharkIncidents Data Cleaning.sql. The Kaggle link below contains all the contents from this csv file but in a much more readable format.
 
-## Cleaned dataset:
+## Cleaned Dataset:
 https://www.kaggle.com/datasets/ryanwong1/shark-incidents-in-california-1950-2022/data
 
-## I have created a Tableau dashboard visualizing and addressing critical questions relating to shark encounters if ever wanting to visit California waters for beach activities. Many of these questions were also determined in the data exploratory process which you can further view in the code I have included in this respository (Data Cleaning and Exploration Folder > SharkIncidents Data Exploration.sql).
+## Tableau Dashboard
+I have created a Tableau dashboard visualizing and addressing critical questions relating to shark encounters if ever wanting to visit California waters for beach activities. Many of these questions were also determined in the data exploratory process which you can further view in the code I have included in this respository (Data Cleaning and Exploration Folder > SharkIncidents Data Exploration.sql).
 https://public.tableau.com/app/profile/ryanw/viz/sharkincidents11111/DASHBOARD
